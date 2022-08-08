@@ -1,0 +1,68 @@
+[
+    {
+		"nombre": "Ari",
+		"contraseña": "BolasdeNieve",
+		"fondo": "../IMG/fondoAri.png",
+		"nivel": "facil"
+	},
+	{
+		"nombre": "Arturo",
+		"contraseña": "Excalibur",
+		"fondo": "../IMG/fondoArturo.jpg",
+		"nivel": "medio"
+	},
+	{
+		"nombre": "Bella",
+		"contraseña": "RosaRoja",
+		"fondo": "../IMG/fondoBella.jpg",
+		"nivel": "dificil"
+	},
+    {
+		"nombre": "Hamlet",
+		"contraseña": "seronoser",
+		"fondo": "../IMG/fondoHamlet.jpg",
+		"nivel": "facil"
+	},
+	{
+		"nombre": "Ofelia",
+		"contraseña": "reloj",
+		"fondo": "../IMG/fondoOfelia.jpg",
+		"nivel": "medio"
+	},
+	{
+		"nombre": "Gretel",
+		"contraseña": "chuches",
+		"fondo": "../IMG/fondoGretel.png",
+		"nivel": "dificil"
+	},
+	{
+		"nombre": "Felipe",
+		"contraseña": "OZ",
+		"fondo": "../IMG/fondoFelipe.jpg",
+		"nivel": "facil"
+	},
+	{
+		"nombre": "Hansel",
+		"contraseña": "Gretel",
+		"fondo": "../IMG/fondoHansel.jpg",
+		"nivel": "medio"
+	},
+	{
+		"nombre": "Cora",
+		"contraseña": "ReinaDeCorazones",
+		"fondo": "../IMG/fondoCora.jpg",
+		"nivel": "dificil"
+	},
+	{
+		"nombre": "Vanessa",
+		"contraseña": "Maiz",
+		"fondo": "../IMG/fondoVanessa.jpg",
+		"nivel": "facil"
+	},
+	{
+		"nombre": "Escarlet",
+		"contraseña": "chocolate",
+		"fondo": "../IMG/fondoEscarlet.jpg",
+		"nivel": "medio"
+	}
+]
